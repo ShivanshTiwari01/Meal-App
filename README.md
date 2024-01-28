@@ -8,6 +8,6 @@
 
 ## Features 
 
-- Search any dish you like
+- Search any dish you like(if available in themealdb api)
 
 - Easily Add/Remove from Favorites List
